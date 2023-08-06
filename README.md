@@ -1,2 +1,2 @@
 # WolfPack-finance-calculator
-This Java projects calculates ...
+This program is meant to calculate the possibility of granting a loan to a user by checking their income, requested loan amount, and credit score s long as they have applied for one within the given application period of June 1st to August 15th. If accepted, the day the loan would be fully paid out will also be outputted based on whether the user opts for express processing with an extra fee of $30.
